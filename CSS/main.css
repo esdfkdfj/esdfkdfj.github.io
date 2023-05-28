@@ -1,0 +1,78 @@
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body{
+	width: 70%
+	margin: auto;
+
+}
+
+
+.mein-headers{
+	background-color: lightgray;
+
+	color: black;
+	background-position: center;
+	
+}	
+/*.text{
+			text-align: left;
+
+		}*/
+.antonZov{
+		margin-left: 580px;
+		padding-top: 20px;
+}
+
+h1{
+	margin-top: 25px;
+	margin-left: 600px;
+}
+h2{
+	padding-top: 20px;
+	margin-left: 550px;
+}
+
+.rrr{
+	margin-top: 10px;
+	background-color: lightgray;
+	text-align: center;
+}
+.a{
+	margin-top: 20px;
+}
+.fotka{
+	padding-bottom: 100px;
+	margin-top: 7px;
+	margin-left: 540px
+}
+.dodik{
+	color: red;
+}
+.fotki{
+	margin-top: 50px;
+	margin-left: 250px;
+}
+.contakt{
+	margin-top: 20px;
+	padding-bottom: 50px;
+}
+.foto{
+	margin-top: 100px;
+}
+.new{
+	margin-left: 100px;
+
+
+/*button{
+	border-radius: 30px;
+	padding: 5px 20px 5px 20px;
+
+}*/
+
+/*.menu td:hover{
+   transform: scale(1.2);
+
+}*/
